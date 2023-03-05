@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\rootw\documents\cv\project2\project2\source.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project2\project2\source.cpp(222): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project2\project2\source.cpp(237): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project2\project2\source.cpp(239): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project2\project2\source.cpp(387): warning C4018: '<': signed/unsigned mismatch
+c:\users\rootw\documents\cv\project2\project2\source.cpp(452): warning C4101: 'v': unreferenced local variable
+c:\users\rootw\documents\cv\project2\project2\source.cpp(458): warning C4101: 'printA': unreferenced local variable
+c:\users\rootw\documents\cv\project2\project2\source.cpp(542): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\rootw\Documents\CV\Project2\Debug\Project2.exe

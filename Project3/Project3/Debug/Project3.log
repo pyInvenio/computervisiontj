@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\rootw\documents\cv\project3\project3\source.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project3\project3\source.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project3\project3\source.cpp(93): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project3\project3\source.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project3\project3\source.cpp(118): warning C4101: 'nPoints': unreferenced local variable
+c:\users\rootw\documents\cv\project3\project3\source.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\rootw\documents\cv\project3\project3\source.cpp(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\rootw\documents\cv\project3\project3\source.cpp(420): warning C4018: '<': signed/unsigned mismatch
+c:\users\rootw\documents\cv\project3\project3\source.cpp(431): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project3\project3\source.cpp(442): warning C4018: '<': signed/unsigned mismatch
+c:\users\rootw\documents\cv\project3\project3\source.cpp(481): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> C:\Users\rootw\Documents\CV\Project3\Debug\Project3.exe

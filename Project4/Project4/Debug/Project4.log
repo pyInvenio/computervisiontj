@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\rootw\documents\cv\project4\project4\source.cpp(70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(210): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(318): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(321): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(324): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\rootw\documents\cv\project4\project4\source.cpp(366): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project4.vcxproj -> C:\Users\rootw\Documents\CV\Project4\Debug\Project4.exe
